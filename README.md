@@ -15,5 +15,4 @@ php_value register_globals off
 # Hides the web server version number, and other sensitive information
 ServerSignature Off
 
-GitHub URL: [https://github.com/ned-dev/waf/](https://github.com/ned-dev/waf/)
 -------------------------------------------------------------------------------------------
